@@ -1,0 +1,18 @@
+# Java / Spring
+backend/target/
+*.class
+*.log
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# IDE & OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Secrets
+.env
+application-local.yml
